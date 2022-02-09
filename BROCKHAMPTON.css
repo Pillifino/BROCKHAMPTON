@@ -1,0 +1,38 @@
+#title {
+    text-align: center;
+    font-family: monospace;
+    color: cornsilk;
+}
+
+.sections {
+    font-family: monospace;
+    color: cornsilk;
+}
+
+.team {
+    font-weight: bolder;
+    font-stretch: expanded;
+    border-width: 30px;
+    padding-top: 10px;
+    color: cornsilk;
+}
+
+#picture {
+    border-width: 15px;
+    border-style:double;
+    border-color: darkorange;
+}
+
+#video {
+    border-width: 15px;
+    border-style:double;
+    border-color: darkorange;
+}
+
+body {
+    background-color: darkblue;
+}
+
+p {
+    color: cornsilk;
+}
